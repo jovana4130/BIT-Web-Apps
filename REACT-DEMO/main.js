@@ -1,5 +1,4 @@
 const rootElement = document.getElementById('root');
-
 const reactRootElement = ReactDOM.createRoot(rootElement);
 
 
