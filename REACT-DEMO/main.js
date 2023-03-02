@@ -17,10 +17,16 @@ const paragraphReactElement = React.createElement(
 
 
 const paragraphReactElement = (
-    <ul>
+    <MovieList>
+        <MovieItem>
         <li><p>Item 1</p></li>
+        </MovieItem>
+        <MovieItem>
         <li><p>Item 2</p></li>
+        </MovieItem>
+        <MovieItem>
         <li><p>Item 3</p></li>
+        </MovieItem>
         <li><p>Item 4</p></li>
         <li><p>Item 5</p></li>
         <li><p>Item 6</p></li>
