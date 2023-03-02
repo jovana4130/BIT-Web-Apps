@@ -4,19 +4,19 @@ const reactRootElement = ReactDOM.createRoot(rootElement);
 
 
 
-const helloSpanElement = React.createElement('span', null, 'Hello');
+/*const helloSpanElement = React.createElement('span', null, 'Hello');
 const worldSpanElement = React.createElement('span', null, 'World');
 const paragraphReactElement = React.createElement(
     'ul', 
     null, 
     React.createElement('li', null, React.createElement('p', null, Item 1')),
     React.createElement('li', null, React.createElement('p', null, Item 1')),
-);
+);*/
 
 
 
 
-const paragraphReactElement = (
+const appEl = (
     <MovieList>
         <MovieItem>
         <li><p>Item 1</p></li>
@@ -32,7 +32,7 @@ const paragraphReactElement = (
         <li><p>Item 6</p></li>
         <li><p>Item 7</p></li>
         <li><p>Item 8</p></li>
-    </ul>
+    </MovieList>
 );
 
-reactRootElement.render(paragraphReactElement);
+reactRootElement.render(appEl);
