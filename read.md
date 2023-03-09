@@ -69,5 +69,14 @@ Decomposing/Destructuring website https://www.buildinamsterdam.com
                     </ParallaxEffectProjects>
                 </ProjectsPresentation>
             </div>
-            <div class='parallax-projects'>
+            <div class='homepage-mission'>
                 <MissionTitle> WE BUILD DIGITAL FLAGSHIP STORES</MissionTitle>
+                <MissionParagraph>
+                    We believe our industry is blinded by numbers. While buying decisions are based on emotion
+                <MissionParagraph>
+                <button class='AboutUs'>ABOUT US</button>
+            </div>
+            <div class='MainMenu-button'>
+                <button class='MainMenu'>Menu</Button>
+            </div>
+
