@@ -79,4 +79,14 @@ Decomposing/Destructuring website https://www.buildinamsterdam.com
             <div class='OpenCloseMenu-button'>
                 <button class='MainMenu'>Menu</Button>
             </div>
+            <div class='Menu-Page'>
+                <ul class='Menu-carousel'>
+                    <li class='Home'>HOME</li>
+                    <li class='Work'>WORK</li>
+                    <li class='About'>ABOUT</li>
+                    <li class='Contact'>CONTACT</li>
+                    <li class='JoinUs'>JOIN US</li>
+                </ul>
+            </div>
+
 
