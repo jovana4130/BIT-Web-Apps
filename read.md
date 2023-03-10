@@ -76,7 +76,7 @@ Decomposing/Destructuring website https://www.buildinamsterdam.com
                 <MissionParagraph>
                 <button class='AboutUs'>ABOUT US</button>
             </div>
-            <div class='MainMenu-button'>
+            <div class='OpenCloseMenu-button'>
                 <button class='MainMenu'>Menu</Button>
             </div>
 
