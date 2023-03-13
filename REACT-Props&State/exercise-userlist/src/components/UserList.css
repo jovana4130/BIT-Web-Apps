@@ -1,0 +1,14 @@
+.container-fluid {
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mb-3 {
+    height: 70%;
+}
+
+.rounded-circle {
+    height: 50%;
+    width: 50%;
+}
