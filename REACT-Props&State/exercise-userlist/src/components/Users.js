@@ -1,4 +1,4 @@
-export default function Users() { 
+export default function Users () { 
     return [
     {
        "gender":"male",

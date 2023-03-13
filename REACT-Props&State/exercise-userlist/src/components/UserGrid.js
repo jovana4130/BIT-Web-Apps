@@ -29,7 +29,7 @@ export const UserGrid = () => {
                     <figcaption className="name">{user.name.first}</figcaption>
                   </figure>
                   <div className="card-contents">
-                    <p>Email: {formatEmail(user.email)}</p>
+                    <p>E-mail: {formatEmail(user.email)}</p>
                     <p>Date of Birth: {new Date(user.dob.date).toLocaleDateString()}</p>
                   </div>
                 </div>

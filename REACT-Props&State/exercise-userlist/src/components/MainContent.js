@@ -1,5 +1,5 @@
-import "./MainContent.css";
-import { UserGrid } from "./UserGrid";
+import './MainContent.css';
+import { UserGrid } from './UserGrid';
 
 
 export const MainContent = () => {
@@ -8,4 +8,4 @@ export const MainContent = () => {
             <UserGrid />
         </div>
     );
-}
+};
